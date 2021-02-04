@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplicationRecyclerView</string>
+    <string name="edit_name">Edit name.....</string>
+    <string name="edit_number">Edit number</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_add">Добавить</string>
+</resources>
